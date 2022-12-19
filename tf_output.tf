@@ -9,3 +9,7 @@ output "app_server_publicdns" {
 output "app_server_publicip" {
     value = aws_instance.web_sev.public_ip
 }
+//ouputs
+
+
+
